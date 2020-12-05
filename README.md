@@ -61,6 +61,8 @@ I consider myself a person with valuable skills, like learning by doing, learnin
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="adonis7ejeda GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=adonis7ejeda&show_icons=true&hide_border=true" />
+  <img alt="adonis7ejeda GitHub Stats" src="https://jf-gh-stats.vercel.app/api?username=adonis7ejeda&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" align="top"/>
+
+  <img alt="GitHub Top Languages" src="https://jf-gh-stats.vercel.app/api/top-langs/?username=adonis7ejeda&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" align="top"/>
 
 </details>
