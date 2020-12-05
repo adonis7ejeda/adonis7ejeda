@@ -58,9 +58,9 @@ I consider myself a person with valuable skills, like learning by doing, learnin
 
 ---
 
-<!-- <details>
+<details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="adonis7ejeda GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=adonis7ejeda&show_icons=true&hide_border=true" />
 
-</details> -->
+</details>
