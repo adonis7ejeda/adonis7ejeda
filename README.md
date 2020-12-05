@@ -20,7 +20,6 @@ I consider myself a person with valuable skills, like learning by doing, learnin
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/adonis7ejeda/)
 [<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/adonis7ejeda/)
 
-<br />
 
 ### Languages and Tools:
 
